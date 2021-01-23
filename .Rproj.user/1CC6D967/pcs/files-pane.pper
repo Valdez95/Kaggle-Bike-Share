@@ -1,9 +1,0 @@
-{
-    "path" : "~/Desktop/Kaggle/KaggleBikeShare",
-    "sortOrder" : [
-        {
-            "ascending" : true,
-            "columnIndex" : 2
-        }
-    ]
-}
