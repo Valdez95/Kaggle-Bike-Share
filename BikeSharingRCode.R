@@ -57,9 +57,6 @@ bike$season <- lm(count~season, data=bike) %>% predict(., newdata=bike %>% selec
 table(bike$season)
 
 ## Fit models
-#train <- bike %>% filter(id=="train")
-#test <- bike %>% filter(id=="test")
-#test <- test %>% select(-count)
 
 tr = trainControl(method="repeatedcv", number=3, repeats=3, search="grid")
 
