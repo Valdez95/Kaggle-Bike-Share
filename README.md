@@ -1,5 +1,5 @@
 # Kaggle-Bike-Share
-Analysis of Kaggle Bike Sharing prediction competition.
+Analysis of Kaggle Bike Sharing prediction competition. https://www.kaggle.com/c/bike-sharing-demand/overview
 
 ### Purpose
 This is my first time playing around with a Kaggle competition and I've decided to try out the Bike Sharing Demand contest which is fairly straightforward with a nice and clean data set. My goal is to familiarize myself more with fitting machine learning models, specifically using R.
